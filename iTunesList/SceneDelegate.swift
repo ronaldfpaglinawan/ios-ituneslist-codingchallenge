@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  iTunesList
 //
-//  Created by Ronald Fornis Paglinawan on 14/06/21.
+//  Created by Ronald Fornis Paglinawan on 15/06/21.
 //
 
 import UIKit
@@ -11,7 +11,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
 
-
+    // MARK: - LifeCycle Methods
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
         // Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.
         // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
